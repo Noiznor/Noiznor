@@ -47,26 +47,16 @@
   </tr>
 </table>
 
-<h2 align="left">🛠 GitHub Stats:</h2>
+<h2 align="left">🛠 GitHub & Codewars Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Noiznor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noiznor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Noiznor&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Noiznor&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /
+    
+ ![Codewars](https://github.r2v.ch/codewars?user=Noiznor&top_languages=true&theme=gradient_purple_dark_by_level)
   
 </div>
-
+  
 </div>
-![Codewars](https://github.r2v.ch/codewars?user=dinifarb&top_languages=true)
-
-![image](https://www.codewars.com/users/Noiznor/badges/large)
-
-### Top trained languages icons
-
-```md
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
-```
-
-![Codewars](https://github.r2v.ch/codewars?user=dinifarb&top_languages=true)
-
