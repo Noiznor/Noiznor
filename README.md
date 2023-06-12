@@ -62,4 +62,11 @@
 
 ![image](https://www.codewars.com/users/Noiznor/badges/large)
 
-###
+### Top trained languages icons
+
+```md
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&top_languages=true)
+```
+
+![Codewars](https://github.r2v.ch/codewars?user=dinifarb&top_languages=true)
+
