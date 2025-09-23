@@ -1,5 +1,7 @@
 <h1 align="left">👋 Hey, Welcome to my GitHub!</h1>
 
+wsl --update --web-download
+
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
