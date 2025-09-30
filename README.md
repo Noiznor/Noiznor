@@ -1,7 +1,5 @@
 <h1 align="left">👋 Hey, Welcome to my GitHub!</h1>
 
-Set-DnsClientServerAddress -InterfaceAlias "이더넷" -ServerAddresses ("8.8.8.8", "1.1.1.1")
-
 ###
 
 <h2 align="left">👩‍💻  About Me</h2>
