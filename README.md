@@ -11,7 +11,7 @@
   🔭 I'm currently studying about Cyber Security, Networking and Data Analytics<br>
   📚 I like Playing Video games & learning about tech stuff<br>
   ⚡ "A coffee a day, keeps the coder healthy each day"<br>
-  🥅 2023 Goal: Find a job, since the best way to learn is to work.<br>
+  🥅 Goal: Find a job, since the best way to learn is to work.<br>
   😋 My stress reliever is eating and sleeping
 </h4>
 
