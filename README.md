@@ -7,8 +7,8 @@
 ###
 
 <h4 align="left">
-  🎓 I’m a 3rd year Computer Engineering Student from University of San Carlos<br>
-  🔭 I'm currently studying about Cyber Security and Data Analytics<br>
+  🎓 I’m a 4th year Computer Engineering Student from University of San Carlos<br>
+  🔭 I'm currently studying about Cyber Security, Networking and Data Analytics<br>
   📚 I like Playing Video games & learning about tech stuff<br>
   ⚡ "A coffee a day, keeps the coder healthy each day"<br>
   🥅 2023 Goal: Find a job, since the best way to learn is to work.<br>
