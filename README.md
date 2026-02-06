@@ -39,10 +39,7 @@
   </tr>
     <td>DATABASE</td>
     <td class="icon-row">
-      <img src="https://cdn.simpleicons.org/oracle/F80000" height="30" alt="oracle logo" />
-      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo" />
-      <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-      <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" />
+      
     </td>
   </tr>
 </table>
