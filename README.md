@@ -1,10 +1,31 @@
+<h1 align="left">👋 Hey, Welcome to my GitHub!</h1>
+
+###
+
+<h2 align="left">👩‍💻 About Me</h2>
+
+###
+
+<h4 align="left">
+  🎓 I’m a 3rd year Computer Engineering Student from University of San Carlos<br>
+  🔭 I'm currently studying about Cyber Security and Data Analytics<br>
+  📚 I like Playing Video games & learning about tech stuff<br>
+  ⚡ "A coffee a day, keeps the coder healthy each day"<br>
+  🥅 2023 Goal: Find a job, since the best way to learn is to work.<br>
+  😋 My stress reliever is eating and sleeping
+</h4>
+
+###
+
 <h2 align="left">💻 Tech Stuff:</h2>
 
+###
+
 <div align="center">
-  <img src="https://media.tenor.com/NGj8c-HNxi4AAAAM/shades-season4.gif" height="150" alt="Rick Shades" />
+  <img height="150" src="https://media.tenor.com/NGj8c-HNxi4AAAAM/shades-season4.gif" />
 </div>
 
-<br>
+###
 
 <table align="center">
   <tr>
@@ -34,9 +55,11 @@
   </tr>
 </table>
 
-<br>
-
 <h2 align="left">🛠 GitHub & Codewars Stats:</h2>
-
 <div align="center">
-  <img src="
+  <img src="https://github-readme-stats.vercel.app/api?username=Noiznor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noiznor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  
+  <div align="center">
+    <img src="https://streak-stats.demolab.com?user=Noiznor&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph" />
+    <img src="https://
